@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGVM7rhwPhM=",
+  "success": true,
+  "projectFilePath": "/Users/georgekonstantinov/Desktop/Projects/T.A.L.A-System/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/georgekonstantinov/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/georgekonstantinov/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
